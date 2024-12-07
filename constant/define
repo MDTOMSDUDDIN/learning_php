@@ -1,0 +1,13 @@
+<?php
+
+// define("PI",3.1416);   //single line comment
+// echo PI;
+
+/*
+define("NAME","tomas");     //multiple line comment
+echo NAME;
+*/
+
+
+const PI =3.1416;
+echo PI;
