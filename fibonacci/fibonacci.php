@@ -1,12 +1,11 @@
 <?php
-
-$very_old=0;
+$veryold=0;
 $old=1;
 $new=1;
 
 for($i=0; $i<10; $i++){
-    echo $very_old ." ";
+    echo $veryold." ";
     $old=$new;
-    $new=$very_old+$old;
-    $very_old=$new;
+    $new=$veryold+$old;
+    $veryold=$old;
 }
