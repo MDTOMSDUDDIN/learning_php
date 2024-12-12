@@ -1,0 +1,26 @@
+1. What is string 
+PHP string is a sequence of characters i.e., used to store and manipulate text.
+
+2. Use Case 
+
+3. String 
+    - Single quoted
+    - Double quoted
+    - Heredoc syntax
+    - Nowdoc syntax
+
+
+4. String Operation or Methods or manipulation | Use Case High
+    - strln ()  length of string    
+    - str_word_count() number of word counting
+    - strev() string reverse
+    - strpos() search text inside string
+    - str_replace() replace specific characters
+    - implode() array convert to string 
+    - explode() string convert to array
+    - trim ()
+    - strtoupper()
+    - strlower()
+    - str_repeat()
+    - sha1() hasing Methods
+    - md5() hasing Methods
