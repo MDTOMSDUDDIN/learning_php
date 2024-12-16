@@ -12,3 +12,15 @@ $obj=new Human();
 
 // echo $obj->name;
 $obj->Info();
+
+
+
+class MyClass {
+    public static $staticVar = 'Hello, World!';
+
+    public static function displayStaticVar() {
+        echo self::$staticVar;
+    }
+}
+
+MyClass::displayStaticVar();  // Output: Hello, World!
