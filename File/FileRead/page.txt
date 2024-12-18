@@ -1,0 +1,9 @@
+book 
+computer
+laptop 
+mouse
+keyboard 
+pendrive 
+hub
+router 
+switch
