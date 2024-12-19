@@ -1,3 +1,1 @@
-tomas,uddin,19,12,11
-parvez,rohman,12,1,1
-sabbir,hossan,18,11,3
+[{"fname":"tomas","lname":"uddin","age":19,"class":12,"roll":11},{"fname":"parvez","lname":"rohman","age":12,"class":1,"roll":1},{"fname":"sabbir","lname":"hossan","age":18,"class":11,"roll":3}]
