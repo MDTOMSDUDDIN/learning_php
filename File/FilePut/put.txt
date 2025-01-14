@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Juiter
+=======
+Juiter
+>>>>>>> 83d777465cb3d5a49353321dccf6e6dde7ef9934
 mars 
 Juiters 
 mars 

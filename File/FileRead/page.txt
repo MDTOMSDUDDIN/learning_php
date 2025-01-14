@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 book 
 computer
 laptop 
@@ -6,4 +7,14 @@ keyboard
 pendrive 
 hub
 router 
+=======
+book 
+computer
+laptop 
+mouse
+keyboard 
+pendrive 
+hub
+router 
+>>>>>>> 83d777465cb3d5a49353321dccf6e6dde7ef9934
 switch
